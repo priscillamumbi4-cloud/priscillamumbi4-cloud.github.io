@@ -8,10 +8,11 @@ I am **excited** to learn *Artificial Inteligence* and practice using `Python` e
 1. Stage your changes using 'git add'
 2. Create a commit using 'git commit-m "Your message"'
 3. Push your changes using 'git push'
-|Tool  | Purpose|Link|
--------|--------|----|
-Github |        |    |
-VS Code|        |    |
+
+|Tool   | Purpose|Link|
+|-------|--------|----|
+|Github |        |    |
+|VS Code|        |    |
 
 - [x] Create a Github account
 - [x] Complete Markdown basics
